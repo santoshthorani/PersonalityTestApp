@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">presentation-layer</string>
+    <string name="your_result">Your Result</string>
+    <string name="label_start_test">Start Test</string>
+    <string name="result">You are more of %1$s</string>
+    <string name="label_next_question">Next Question</string>
+    <string name="label_night_mode">Night Mode</string>
+</resources>
